@@ -1,0 +1,243 @@
+Report given by the Ant-Colony algorithm
+
+Total Cost: 177913.085129
+Number of Nodes: 232
+Ant Number: 200
+ALPHA:      2.000000
+BETA:       3.000000
+RHO:        0.500000
+Q:          1.000000
+
+Travelling Plan----------------------------------------------------------------------------------------------------
+Step 1   : FROM Saint George's - Grenada            TO Port of Spain - Trinidad and Tobago COST 157.737566          
+Step 2   : FROM Port of Spain - Trinidad and Tobago TO Georgetown - Guyana                 COST 565.802279          
+Step 3   : FROM Georgetown - Guyana                 TO Paramaribo - Suriname               COST 346.791876          
+Step 4   : FROM Paramaribo - Suriname               TO Caracas - Venezuela                 COST 1387.346974         
+Step 5   : FROM Caracas - Venezuela                 TO Willemstad - CuraÃ§ao               COST 286.845908          
+Step 6   : FROM Willemstad - CuraÃ§ao               TO Oranjestad - Aruba                  COST 129.859482          
+Step 7   : FROM Oranjestad - Aruba                  TO Bogota - Colombia                   COST 986.353170          
+Step 8   : FROM Bogota - Colombia                   TO Quito - Ecuador                     COST 726.326857          
+Step 9   : FROM Quito - Ecuador                     TO Lima - Peru                         COST 1325.501379         
+Step 10  : FROM Lima - Peru                         TO La Paz - Bolivia                    COST 1078.893730         
+Step 11  : FROM La Paz - Bolivia                    TO Asuncion - Paraguay                 COST 1460.369486         
+Step 12  : FROM Asuncion - Paraguay                 TO Buenos Aires - Argentina            COST 1040.419806         
+Step 13  : FROM Buenos Aires - Argentina            TO Montevideo - Uruguay                COST 230.409297          
+Step 14  : FROM Montevideo - Uruguay                TO Santiago - Chile                    COST 1342.167723         
+Step 15  : FROM Santiago - Chile                    TO Stanley - Falkland Islands          COST 2276.899247         
+Step 16  : FROM Stanley - Falkland Islands          TO Brasilia - Brazil                   COST 4089.859530         
+Step 17  : FROM Brasilia - Brazil                   TO Jamestown - Saint Helena            COST 4505.849279         
+Step 18  : FROM Jamestown - Saint Helena            TO Windhoek - Namibia                  COST 2501.154127         
+Step 19  : FROM Windhoek - Namibia                  TO Gaborone - Botswana                 COST 927.087681          
+Step 20  : FROM Gaborone - Botswana                 TO Pretoria - South Africa             COST 261.576535          
+Step 21  : FROM Pretoria - South Africa             TO Mbabane - Swaziland                 COST 299.423818          
+Step 22  : FROM Mbabane - Swaziland                 TO Maputo - Mozambique                 COST 150.381461          
+Step 23  : FROM Maputo - Mozambique                 TO Maseru - Lesotho                    COST 626.409250          
+Step 24  : FROM Maseru - Lesotho                    TO Harare - Zimbabwe                   COST 1328.682424         
+Step 25  : FROM Harare - Zimbabwe                   TO Lusaka - Zambia                     COST 396.307831          
+Step 26  : FROM Lusaka - Zambia                     TO Lilongwe - Malawi                   COST 613.122661          
+Step 27  : FROM Lilongwe - Malawi                   TO Dar es Salaam - Tanzania            COST 998.192452          
+Step 28  : FROM Dar es Salaam - Tanzania            TO Moroni - Comoros                    COST 696.183702          
+Step 29  : FROM Moroni - Comoros                    TO Antananarivo - Madagascar           COST 924.459061          
+Step 30  : FROM Antananarivo - Madagascar           TO Port Louis - Mauritius              COST 1053.251871         
+Step 31  : FROM Port Louis - Mauritius              TO Victoria - Seychelles               COST 1741.190885         
+Step 32  : FROM Victoria - Seychelles               TO Mogadishu - Somalia                 COST 1347.465176         
+Step 33  : FROM Mogadishu - Somalia                 TO Hargeisa - Somaliland               COST 844.115511          
+Step 34  : FROM Hargeisa - Somaliland               TO Djibouti - Djibouti                 COST 246.570096          
+Step 35  : FROM Djibouti - Djibouti                 TO Sanaa - Yemen                       COST 433.946138          
+Step 36  : FROM Sanaa - Yemen                       TO Asmara - Eritrea                    COST 564.747467          
+Step 37  : FROM Asmara - Eritrea                    TO Khartoum - Sudan                    COST 686.490727          
+Step 38  : FROM Khartoum - Sudan                    TO Addis Ababa - Ethiopia              COST 990.643673          
+Step 39  : FROM Addis Ababa - Ethiopia              TO Juba - South Sudan                  COST 909.607261          
+Step 40  : FROM Juba - South Sudan                  TO Kampala - Uganda                    COST 514.629803          
+Step 41  : FROM Kampala - Uganda                    TO Kigali - Rwanda                     COST 375.201848          
+Step 42  : FROM Kigali - Rwanda                     TO Bujumbura - Burundi                 COST 175.669279          
+Step 43  : FROM Bujumbura - Burundi                 TO Nairobi - Kenya                     COST 861.264987          
+Step 44  : FROM Nairobi - Kenya                     TO Bangui - Central African Republic   COST 2121.068927         
+Step 45  : FROM Bangui - Central African Republic   TO N'Djamena - Chad                    COST 944.362357          
+Step 46  : FROM N'Djamena - Chad                    TO Abuja - Nigeria                     COST 885.613093          
+Step 47  : FROM Abuja - Nigeria                     TO Malabo - Equatorial Guinea          COST 608.900711          
+Step 48  : FROM Malabo - Equatorial Guinea          TO Yaounde - Cameroon                  COST 303.539089          
+Step 49  : FROM Yaounde - Cameroon                  TO Libreville - Gabon                  COST 450.271521          
+Step 50  : FROM Libreville - Gabon                  TO Sao Tome - Sao Tome and Principe    COST 302.125019          
+Step 51  : FROM Sao Tome - Sao Tome and Principe    TO Brazzaville - Republic of Congo     COST 1077.988473         
+Step 52  : FROM Brazzaville - Republic of Congo     TO Luanda - Angola                     COST 558.418956          
+Step 53  : FROM Luanda - Angola                     TO Porto-Novo - Benin                  COST 2069.069728         
+Step 54  : FROM Porto-Novo - Benin                  TO Lome - Togo                         COST 160.013999          
+Step 55  : FROM Lome - Togo                         TO Accra - Ghana                       COST 170.615216          
+Step 56  : FROM Accra - Ghana                       TO Yamoussoukro - Cote d'Ivoire        COST 575.747734          
+Step 57  : FROM Yamoussoukro - Cote d'Ivoire        TO Bamako - Mali                       COST 714.409312          
+Step 58  : FROM Bamako - Mali                       TO Ouagadougou - Burkina Faso          COST 704.489307          
+Step 59  : FROM Ouagadougou - Burkina Faso          TO Niamey - Niger                      COST 413.979751          
+Step 60  : FROM Niamey - Niger                      TO Monrovia - Liberia                  COST 1625.601871         
+Step 61  : FROM Monrovia - Liberia                  TO Freetown - Sierra Leone             COST 361.841877          
+Step 62  : FROM Freetown - Sierra Leone             TO Conakry - Guinea                    COST 124.123880          
+Step 63  : FROM Conakry - Guinea                    TO Bissau - Guinea-Bissau              COST 332.604936          
+Step 64  : FROM Bissau - Guinea-Bissau              TO Banjul - The Gambia                 COST 207.446546          
+Step 65  : FROM Banjul - The Gambia                 TO Dakar - Senegal                     COST 183.293708          
+Step 66  : FROM Dakar - Senegal                     TO Nouakchott - Mauritania             COST 411.068648          
+Step 67  : FROM Nouakchott - Mauritania             TO Praia - Cape Verde                  COST 877.726730          
+Step 68  : FROM Praia - Cape Verde                  TO El-AaiÃºn - Western Sahara          COST 1729.294087         
+Step 69  : FROM El-AaiÃºn - Western Sahara          TO Rabat - Morocco                     COST 977.305964          
+Step 70  : FROM Rabat - Morocco                     TO Gibraltar - Gibraltar               COST 270.563183          
+Step 71  : FROM Gibraltar - Gibraltar               TO Lisbon - Portugal                   COST 440.525837          
+Step 72  : FROM Lisbon - Portugal                   TO Madrid - Spain                      COST 503.206824          
+Step 73  : FROM Madrid - Spain                      TO Andorra la Vella - Andorra          COST 492.166198          
+Step 74  : FROM Andorra la Vella - Andorra          TO Monaco - Monaco                     COST 498.015128          
+Step 75  : FROM Monaco - Monaco                     TO Bern - Switzerland                  COST 353.992299          
+Step 76  : FROM Bern - Switzerland                  TO Vaduz - Liechtenstein               COST 157.240404          
+Step 77  : FROM Vaduz - Liechtenstein               TO Luxembourg - Luxembourg             COST 371.832659          
+Step 78  : FROM Luxembourg - Luxembourg             TO Brussels - Belgium                  COST 186.826148          
+Step 79  : FROM Brussels - Belgium                  TO Amsterdam - Netherlands             COST 173.391789          
+Step 80  : FROM Amsterdam - Netherlands             TO London - United Kingdom             COST 355.571509          
+Step 81  : FROM London - United Kingdom             TO Saint Peter Port - Guernsey         COST 286.357512          
+Step 82  : FROM Saint Peter Port - Guernsey         TO Saint Helier - Jersey               COST 43.195387           
+Step 83  : FROM Saint Helier - Jersey               TO Paris - France                      COST 325.115821          
+Step 84  : FROM Paris - France                      TO Douglas - Isle of Man               COST 752.748262          
+Step 85  : FROM Douglas - Isle of Man               TO Dublin - Ireland                    COST 147.764304          
+Step 86  : FROM Dublin - Ireland                    TO Torshavn - Faroe Islands            COST 966.055823          
+Step 87  : FROM Torshavn - Faroe Islands            TO Reykjavik - Iceland                 COST 798.776736          
+Step 88  : FROM Reykjavik - Iceland                 TO Nuuk - Greenland                    COST 1430.710749         
+Step 89  : FROM Nuuk - Greenland                    TO Saint-Pierre - Saint Pierre and Miquelon COST 1955.554284         
+Step 90  : FROM Saint-Pierre - Saint Pierre and Miquelon TO Hamilton - Bermuda                  COST 1768.742228         
+Step 91  : FROM Hamilton - Bermuda                  TO Washington D.C. - United States     COST 1324.430398         
+Step 92  : FROM Washington D.C. - United States     TO Ottawa - Canada                     COST 734.306977          
+Step 93  : FROM Ottawa - Canada                     TO Nassau - Bahamas                    COST 2265.793065         
+Step 94  : FROM Nassau - Bahamas                    TO Havana - Cuba                       COST 552.561428          
+Step 95  : FROM Havana - Cuba                       TO George Town - Cayman Islands        COST 436.058232          
+Step 96  : FROM George Town - Cayman Islands        TO Kingston - Jamaica                  COST 504.028514          
+Step 97  : FROM Kingston - Jamaica                  TO Port-au-Prince - Haiti              COST 475.342678          
+Step 98  : FROM Port-au-Prince - Haiti              TO Grand Turk - Turks and Caicos Islands COST 349.435524          
+Step 99  : FROM Grand Turk - Turks and Caicos Islands TO Santo Domingo - Dominican Republic  COST 357.614379          
+Step 100 : FROM Santo Domingo - Dominican Republic  TO San Juan - Puerto Rico              COST 399.018412          
+Step 101 : FROM San Juan - Puerto Rico              TO Charlotte Amalie - US Virgin Islands COST 125.519773          
+Step 102 : FROM Charlotte Amalie - US Virgin Islands TO Road Town - British Virgin Islands  COST 34.227143           
+Step 103 : FROM Road Town - British Virgin Islands  TO The Valley - Anguilla               COST 166.867207          
+Step 104 : FROM The Valley - Anguilla               TO Marigot - Saint Martin              COST 16.322453           
+Step 105 : FROM Marigot - Saint Martin              TO Philipsburg - Sint Maarten          COST 8.128325            
+Step 106 : FROM Philipsburg - Sint Maarten          TO Gustavia - Saint Barthelemy         COST 24.411393           
+Step 107 : FROM Gustavia - Saint Barthelemy         TO Basseterre - Saint Kitts and Nevis  COST 66.385499           
+Step 108 : FROM Basseterre - Saint Kitts and Nevis  TO Plymouth - Montserrat               COST 85.311052           
+Step 109 : FROM Plymouth - Montserrat               TO Saint John's - Antigua and Barbuda  COST 60.566331           
+Step 110 : FROM Saint John's - Antigua and Barbuda  TO Roseau - Dominica                   COST 207.639515          
+Step 111 : FROM Roseau - Dominica                   TO Castries - Saint Lucia              COST 150.822303          
+Step 112 : FROM Castries - Saint Lucia              TO Bridgetown - Barbados               COST 179.933871          
+Step 113 : FROM Bridgetown - Barbados               TO Panama City - Panama                COST 2220.844591         
+Step 114 : FROM Panama City - Panama                TO San Jose - Costa Rica               COST 510.505630          
+Step 115 : FROM San Jose - Costa Rica               TO Managua - Nicaragua                 COST 340.225197          
+Step 116 : FROM Managua - Nicaragua                 TO Tegucigalpa - Honduras              COST 242.445825          
+Step 117 : FROM Tegucigalpa - Honduras              TO San Salvador - El Salvador          COST 218.649174          
+Step 118 : FROM San Salvador - El Salvador          TO Guatemala City - Guatemala          COST 174.760954          
+Step 119 : FROM Guatemala City - Guatemala          TO Belmopan - Belize                   COST 347.482423          
+Step 120 : FROM Belmopan - Belize                   TO Mexico City - Mexico                COST 1120.539186         
+Step 121 : FROM Mexico City - Mexico                TO Adamstown - Pitcairn Islands        COST 5974.240061         
+Step 122 : FROM Adamstown - Pitcairn Islands        TO Papeete - French Polynesia          COST 2182.217732         
+Step 123 : FROM Papeete - French Polynesia          TO Avarua - Cook Islands               COST 1144.677752         
+Step 124 : FROM Avarua - Cook Islands               TO Alofi - Niue                        COST 1087.035763         
+Step 125 : FROM Alofi - Niue                        TO Pago Pago - American Samoa          COST 534.723946          
+Step 126 : FROM Pago Pago - American Samoa          TO Apia - Samoa                        COST 125.472667          
+Step 127 : FROM Apia - Samoa                        TO Mata-Utu - Wallis and Futuna        COST 23.312809           
+Step 128 : FROM Mata-Utu - Wallis and Futuna        TO Atafu - Tokelau                     COST 531.994177          
+Step 129 : FROM Atafu - Tokelau                     TO Funafuti - Tuvalu                   COST 985.992486          
+Step 130 : FROM Funafuti - Tuvalu                   TO Tarawa - Kiribati                   COST 1367.576543         
+Step 131 : FROM Tarawa - Kiribati                   TO Yaren - Nauru                       COST 292.857822          
+Step 132 : FROM Yaren - Nauru                       TO Majuro - Marshall Islands           COST 983.972545          
+Step 133 : FROM Majuro - Marshall Islands           TO Honiara - Solomon Islands           COST 2232.523480         
+Step 134 : FROM Honiara - Solomon Islands           TO Port-Vila - Vanuatu                 COST 1291.430100         
+Step 135 : FROM Port-Vila - Vanuatu                 TO Noumea - New Caledonia              COST 540.477217          
+Step 136 : FROM Noumea - New Caledonia              TO Suva - Fiji                         COST 1330.069281         
+Step 137 : FROM Suva - Fiji                         TO Nuku'alofa - Tonga                  COST 747.004845          
+Step 138 : FROM Nuku'alofa - Tonga                  TO Wellington - New Zealand            COST 2432.157268         
+Step 139 : FROM Wellington - New Zealand            TO Canberra - Australia                COST 2327.361734         
+Step 140 : FROM Canberra - Australia                TO Port Moresby - Papua New Guinea     COST 2877.499805         
+Step 141 : FROM Port Moresby - Papua New Guinea     TO Dili - Timor-Leste                  COST 2371.886968         
+Step 142 : FROM Dili - Timor-Leste                  TO Melekeok - Palau                    COST 2047.907602         
+Step 143 : FROM Melekeok - Palau                    TO Hagatna - Guam                      COST 1288.764376         
+Step 144 : FROM Hagatna - Guam                      TO Saipan - Northern Mariana Islands   COST 221.683307          
+Step 145 : FROM Saipan - Northern Mariana Islands   TO Tokyo - Japan                       COST 2354.579192         
+Step 146 : FROM Tokyo - Japan                       TO Seoul - South Korea                 COST 1157.216887         
+Step 147 : FROM Seoul - South Korea                 TO Pyongyang - North Korea             COST 195.405805          
+Step 148 : FROM Pyongyang - North Korea             TO Beijing - China                     COST 809.872297          
+Step 149 : FROM Beijing - China                     TO Ulaanbaatar - Mongolia              COST 1167.102587         
+Step 150 : FROM Ulaanbaatar - Mongolia              TO Astana - Kazakhstan                 COST 2561.282586         
+Step 151 : FROM Astana - Kazakhstan                 TO Bishkek - Kyrgyzstan                COST 953.707194          
+Step 152 : FROM Bishkek - Kyrgyzstan                TO Tashkent - Uzbekistan               COST 473.796017          
+Step 153 : FROM Tashkent - Uzbekistan               TO Dushanbe - Tajikistan               COST 310.385798          
+Step 154 : FROM Dushanbe - Tajikistan               TO Kabul - Afghanistan                 COST 450.027226          
+Step 155 : FROM Kabul - Afghanistan                 TO Islamabad - Pakistan                COST 367.861049          
+Step 156 : FROM Islamabad - Pakistan                TO New Delhi - India                   COST 689.389182          
+Step 157 : FROM New Delhi - India                   TO Kathmandu - Nepal                   COST 801.592655          
+Step 158 : FROM Kathmandu - Nepal                   TO Thimphu - Bhutan                    COST 426.287821          
+Step 159 : FROM Thimphu - Bhutan                    TO Dhaka - Bangladesh                  COST 424.006195          
+Step 160 : FROM Dhaka - Bangladesh                  TO Rangoon - Myanmar                   COST 975.010323          
+Step 161 : FROM Rangoon - Myanmar                   TO Bangkok - Thailand                  COST 578.225927          
+Step 162 : FROM Bangkok - Thailand                  TO Phnom Penh - Cambodia               COST 536.375864          
+Step 163 : FROM Phnom Penh - Cambodia               TO Vientiane - Laos                    COST 755.683448          
+Step 164 : FROM Vientiane - Laos                    TO Hanoi - Vietnam                     COST 481.958573          
+Step 165 : FROM Hanoi - Vietnam                     TO Taipei - Taiwan                     COST 1662.503059         
+Step 166 : FROM Taipei - Taiwan                     TO Manila - Philippines                COST 1161.554818         
+Step 167 : FROM Manila - Philippines                TO Bandar Seri Begawan - Brunei Darussalam COST 1266.253196         
+Step 168 : FROM Bandar Seri Begawan - Brunei Darussalam TO Singapore - Singapore               COST 1293.896467         
+Step 169 : FROM Singapore - Singapore               TO Kuala Lumpur - Malaysia             COST 317.676510          
+Step 170 : FROM Kuala Lumpur - Malaysia             TO Jakarta - Indonesia                 COST 1183.145254         
+Step 171 : FROM Jakarta - Indonesia                 TO The Settlement - Christmas Island   COST 487.824967          
+Step 172 : FROM The Settlement - Christmas Island   TO West Island - Cocos Islands         COST 987.936112          
+Step 173 : FROM West Island - Cocos Islands         TO Colombo - Sri Lanka                 COST 2834.645987         
+Step 174 : FROM Colombo - Sri Lanka                 TO Male - Maldives                     COST 764.673362          
+Step 175 : FROM Male - Maldives                     TO Muscat - Oman                       COST 2690.645918         
+Step 176 : FROM Muscat - Oman                       TO Abu Dhabi - United Arab Emirates    COST 438.482593          
+Step 177 : FROM Abu Dhabi - United Arab Emirates    TO Doha - Qatar                        COST 299.894452          
+Step 178 : FROM Doha - Qatar                        TO Manama - Bahrain                    COST 143.283483          
+Step 179 : FROM Manama - Bahrain                    TO Riyadh - Saudi Arabia               COST 426.279973          
+Step 180 : FROM Riyadh - Saudi Arabia               TO Kuwait City - Kuwait                COST 539.258155          
+Step 181 : FROM Kuwait City - Kuwait                TO Baghdad - Iraq                      COST 556.015262          
+Step 182 : FROM Baghdad - Iraq                      TO Tehran - Iran                       COST 694.425875          
+Step 183 : FROM Tehran - Iran                       TO Ashgabat - Turkmenistan             COST 668.434044          
+Step 184 : FROM Ashgabat - Turkmenistan             TO Baku - Azerbaijan                   COST 782.089324          
+Step 185 : FROM Baku - Azerbaijan                   TO Tbilisi - Georgia                   COST 446.161457          
+Step 186 : FROM Tbilisi - Georgia                   TO Yerevan - Armenia                   COST 170.954737          
+Step 187 : FROM Yerevan - Armenia                   TO Ankara - Turkey                     COST 989.837092          
+Step 188 : FROM Ankara - Turkey                     TO Nicosia - Cyprus                    COST 531.856268          
+Step 189 : FROM Nicosia - Cyprus                    TO North Nicosia - Northern Cyprus     COST 1.853213            
+Step 190 : FROM North Nicosia - Northern Cyprus     TO Beirut - Lebanon                    COST 244.182622          
+Step 191 : FROM Beirut - Lebanon                    TO Damascus - Syria                    COST 84.507104           
+Step 192 : FROM Damascus - Syria                    TO Amman - Jordan                      COST 175.731697          
+Step 193 : FROM Amman - Jordan                      TO Jerusalem - Palestine               COST 69.182394           
+Step 194 : FROM Jerusalem - Palestine               TO Cairo - Egypt                       COST 425.228826          
+Step 195 : FROM Cairo - Egypt                       TO Athens - Greece                     COST 1120.760461         
+Step 196 : FROM Athens - Greece                     TO Tirana - Albania                    COST 499.710382          
+Step 197 : FROM Tirana - Albania                    TO Skopje - Macedonia                  COST 154.306291          
+Step 198 : FROM Skopje - Macedonia                  TO Pristina - Kosovo                   COST 77.302769           
+Step 199 : FROM Pristina - Kosovo                   TO Sofia - Bulgaria                    COST 175.771230          
+Step 200 : FROM Sofia - Bulgaria                    TO Bucharest - Romania                 COST 296.898180          
+Step 201 : FROM Bucharest - Romania                 TO Chisinau - Moldova                  COST 356.371211          
+Step 202 : FROM Chisinau - Moldova                  TO Kyiv - Ukraine                      COST 400.844693          
+Step 203 : FROM Kyiv - Ukraine                      TO Minsk - Belarus                     COST 434.734059          
+Step 204 : FROM Minsk - Belarus                     TO Vilnius - Lithuania                 COST 170.017996          
+Step 205 : FROM Vilnius - Lithuania                 TO Riga - Latvia                       COST 263.243063          
+Step 206 : FROM Riga - Latvia                       TO Tallinn - Estonia                   COST 278.486182          
+Step 207 : FROM Tallinn - Estonia                   TO Helsinki - Finland                  COST 82.438504           
+Step 208 : FROM Helsinki - Finland                  TO Mariehamn - Aland Islands           COST 278.629413          
+Step 209 : FROM Mariehamn - Aland Islands           TO Stockholm - Sweden                  COST 135.425859          
+Step 210 : FROM Stockholm - Sweden                  TO Oslo - Norway                       COST 415.326345          
+Step 211 : FROM Oslo - Norway                       TO Copenhagen - Denmark                COST 484.860482          
+Step 212 : FROM Copenhagen - Denmark                TO Berlin - Germany                    COST 354.283357          
+Step 213 : FROM Berlin - Germany                    TO Prague - Czech Republic             COST 280.544641          
+Step 214 : FROM Prague - Czech Republic             TO Vienna - Austria                    COST 250.895023          
+Step 215 : FROM Vienna - Austria                    TO Bratislava - Slovakia               COST 55.890417           
+Step 216 : FROM Bratislava - Slovakia               TO Budapest - Hungary                  COST 163.642343          
+Step 217 : FROM Budapest - Hungary                  TO Belgrade - Serbia                   COST 315.937927          
+Step 218 : FROM Belgrade - Serbia                   TO Sarajevo - Bosnia and Herzegovina   COST 197.460969          
+Step 219 : FROM Sarajevo - Bosnia and Herzegovina   TO Podgorica - Montenegro              COST 173.654067          
+Step 220 : FROM Podgorica - Montenegro              TO Zagreb - Croatia                    COST 456.139754          
+Step 221 : FROM Zagreb - Croatia                    TO Ljubljana - Slovenia                COST 118.049337          
+Step 222 : FROM Ljubljana - Slovenia                TO San Marino - San Marino             COST 287.494286          
+Step 223 : FROM San Marino - San Marino             TO Vatican City - Vatican City         COST 226.112780          
+Step 224 : FROM Vatican City - Vatican City         TO Rome - Italy                        COST 2.758763            
+Step 225 : FROM Rome - Italy                        TO Tunis - Tunisia                     COST 600.523015          
+Step 226 : FROM Tunis - Tunisia                     TO Valletta - Malta                    COST 399.800848          
+Step 227 : FROM Valletta - Malta                    TO Tripoli - Libya                     COST 355.304671          
+Step 228 : FROM Tripoli - Libya                     TO Algiers - Algeria                   COST 1017.975398         
+Step 229 : FROM Algiers - Algeria                   TO Warsaw - Poland                     COST 2222.760914         
+Step 230 : FROM Warsaw - Poland                     TO Moscow - Russia                     COST 1149.241477         
+Step 231 : FROM Moscow - Russia                     TO Longyearbyen - Svalbard             COST 2633.805606         
+Step 232 : FROM Longyearbyen - Svalbard             TO Saint George's - Grenada            COST 8410.956056         

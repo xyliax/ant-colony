@@ -18,6 +18,7 @@ public class AntColony {
     final double BETA = 3.0;
     final double RHO = 0.5;
     final double Q = 1.0;
+    final int ITERATION = 100;
     private final double[][] pheromone;
     Ant[] ants;
     Graph graph;
@@ -41,7 +42,9 @@ public class AntColony {
     public void solve() {
         double ans = Double.MAX_VALUE;
         Edge[] routes = new Edge[graph.size];
-        for (int i = 0; i < 100; i++) {
+        long startTime, endTime;
+        startTime = System.currentTimeMillis();
+        for (int i = 0; i < ITERATION; i++) {
             startAll();
             for (Ant ant : ants) {
                 if (ant.getDistance() < ans) {
@@ -49,8 +52,12 @@ public class AntColony {
                     routes = Arrays.copyOf(ant.getRoutes(), routes.length);
                 }
             }
+            System.out.print("\rIteration " + i + "/" + ITERATION);
         }
+        endTime = System.currentTimeMillis();
+        System.out.println();
         System.out.println(ans);
+        System.out.println("Time Cost (seconds): " + (endTime - startTime) / 1000.0);
         System.out.println("Full report can be viewed in 'report.txt'");
         try {
             BufferedWriter writer = new BufferedWriter(new FileWriter("report.txt"));
